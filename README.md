@@ -88,6 +88,8 @@ Olá! Sou o Italo Rômulo, desenvolvedor focado em criar soluções eficientes e
 
 ### 📈 Atividade Mensal
 
+<br clear="both">
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=e60000&height=100&section=header&bg_color=000000" width="100%"/>
   
