@@ -88,6 +88,10 @@ Olá! Sou o Italo Rômulo, desenvolvedor focado em criar soluções eficientes e
 
 ### 📈 Atividade Mensal
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Italoromulo&bg_color=000000&color=e60000&line=e60000&point=e60000&area=true&hide_border=true" width="100%" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=e60000&height=100&section=header&bg_color=000000" width="100%"/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Italoromulo&bg_color=000000&color=e60000&line=e60000&point=e60000&area=true&hide_border=true&area_color=e60000" width="100%" style="margin-top: -50px; margin-bottom: -50px;" />
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=e60000&height=100&section=footer&reversal=true&bg_color=000000" width="100%"/>
+</div>
