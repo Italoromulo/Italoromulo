@@ -91,11 +91,3 @@ Olá! Sou o Italo Rômulo, desenvolvedor focado em criar soluções eficientes e
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Italoromulo&bg_color=000000&color=e60000&line=e60000&point=e60000&area=true&hide_border=true" width="100%" />
 </p>
-
-### 🏆 Destaque de Projeto Acadêmico (UNSUAM)
-**Gygabite Shop**: Sistema FullStack para venda de hardware.
-* **Back-end**: PHP com `mysqli` e prepared statements para segurança.
-* **Relatórios**: Geração automática de relatórios de vendas em PDF via **FPDF**.
-* **Front-end**: Interface responsiva com **Bootstrap 5**, suporte a acessibilidade e Dark Mode.
-
----
