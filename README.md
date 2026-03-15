@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-> 🚀 Atualmente cursando Análise e Desenvolvimento de Sistemas (ADS) na **UNISUAM**.
+> 🚀 Atualmente estou cursando Análise e Desenvolvimento de Sistemas (ADS) na **UNISUAM**.
 
 Olá! Sou o Italo Rômulo, desenvolvedor focado em criar soluções eficientes e seguras. Tenho experiência prática no desenvolvimento de sistemas de e-commerce como a **Gygabite Shop**, utilizando **PHP**, **MySQL** e integrações de API.
 
