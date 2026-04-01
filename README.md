@@ -1,3 +1,12 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=e60000&height=100&section=header&bg_color=000000" width="100%"/>
+</div>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=500&color=E60000&background=00000000&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+seja+bem-vindo!;Hello%2C+welcome!;%C2%A1Hola%2C+bienvenido!;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%AC%A2%E8%BF%8E%E5%85%89%E4%B8%B4!;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%2C+%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%97%E0%A4%A4+%E0%A4%B9%E0%A5%88!" />
+</p>
+
 # 👩🏻‍💻 Italo Rômulo
 
 **`Desenvolvedor FullStack`**
