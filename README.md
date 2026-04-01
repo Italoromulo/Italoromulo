@@ -71,9 +71,9 @@ Olá! Sou o Italo Rômulo, desenvolvedor focado em criar soluções eficientes e
 </p>
 
 <p align="center">
-  <img width="410" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Italoromulo&show_icons=true&bg_color=000000&title_color=e60000&text_color=e60000&icon_color=e60000&border_color=e60000&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true" />
+  <img width="405" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Italoromulo&show_icons=true&bg_color=000000&title_color=e60000&text_color=e60000&icon_color=e60000&border_color=e60000&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="429" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Italoromulo&bg_color=000000&title_color=e60000&text_color=e60000&layout=compact&custom_title=Tecnologias&langs_count=9&border_color=e60000&hide_border=true" />
+  <img width="424" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Italoromulo&bg_color=000000&title_color=e60000&text_color=e60000&layout=compact&custom_title=Tecnologias&langs_count=9&border_color=e60000&hide_border=true" />
 </p>
 
 <br clear="both">
