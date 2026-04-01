@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=500&color=E60000&background=00000000&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+seja+bem-vindo!;Hello%2C+welcome!;%C2%A1Hola%2C+bienvenido!;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%AC%A2%E8%BF%8E%E5%85%89%E4%B8%B4!;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%2C+%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%97%E0%A4%A4+%E0%A4%B9%E0%A5%88!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=500&color=E60000&background=00000000&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+seja+bem-vindo!;Hello%2C+welcome!;%C2%A1Hola%2C+bienvenido!;Salut%2C+bienvenue!;%D0%B5%D1%82%D0%B2%D1%83%D1%8E%2C+%D0%B4%D0%BE%D0%B1%D1%80%D0%BE+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C!;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%AC%A2%E8%BF%8E%E5%85%89%E4%B8%B4!;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%2C+%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%97%E0%A4%A4+%E0%A4%B9%E0%A5%88!;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%D9%8B%D8%8C+%D8%A3%D9%87%D9%84%D8%A7%D9%81+%D8%A8%D9%83!" />
 </p>
 
 # 👩🏻‍💻 Italo Rômulo
@@ -65,26 +65,15 @@ Olá! Sou o Italo Rômulo, desenvolvedor focado em criar soluções eficientes e
 <br/>
 
 ### 📊 Estatísticas e Contribuições
-
+<br>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Italoromulo&theme=blood&background=000000&ring=e60000&fire=e60000&currStreakNum=e60000&currStreakLabel=e60000&sideNums=e60000&sideLabels=e60000&dates=e60000&stroke=e60000&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=Italoromulo&show_icons=true&bg_color=000000&title_color=e60000&text_color=e60000&icon_color=e60000&border_color=e60000&include_all_commits=true&count_private=true&locale=pt-br" 
-  />
-</p>
-
-  <img 
-    align="left" 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italoromulo&bg_color=000000&title_color=e60000&text_color=e60000&layout=compact&custom_title=Tecnologias&langs_count=9&border_color=e60000" 
-  />
+  <img width="430" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Italoromulo&show_icons=true&bg_color=000000&title_color=e60000&text_color=e60000&icon_color=e60000&border_color=e60000&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="448" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Italoromulo&bg_color=000000&title_color=e60000&text_color=e60000&layout=compact&custom_title=Tecnologias&langs_count=9&border_color=e60000&hide_border=true" />
 </p>
 
 <br clear="both">
